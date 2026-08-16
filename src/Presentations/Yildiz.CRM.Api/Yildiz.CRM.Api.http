@@ -1,0 +1,6 @@
+@Yildiz.CRM.Api_HostAddress = http://localhost:5104
+
+GET {{Yildiz.CRM.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
